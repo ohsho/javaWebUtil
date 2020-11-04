@@ -1,2 +1,2 @@
 # javaWebUtil
-java utilities
+java utilities for java or java web project
